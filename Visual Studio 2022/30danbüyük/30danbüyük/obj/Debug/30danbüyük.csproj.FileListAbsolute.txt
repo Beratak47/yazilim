@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\30danbüyük\30danbüyük\bin\Debug\30danbüyük.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\30danbüyük\30danbüyük\bin\Debug\30danbüyük.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\30danbüyük\30danbüyük\bin\Debug\30danbüyük.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\30danbüyük\30danbüyük\obj\Debug\30danbüyük.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\30danbüyük\30danbüyük\obj\Debug\30danbüyük.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\30danbüyük\30danbüyük\obj\Debug\30danbüyük.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\30danbüyük\30danbüyük\obj\Debug\30danbüyük.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\30danbüyük\30danbüyük\obj\Debug\30danbüyük.pdb

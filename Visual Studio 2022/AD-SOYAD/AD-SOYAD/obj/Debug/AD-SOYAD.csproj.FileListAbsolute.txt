@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\AD-SOYAD\AD-SOYAD\bin\Debug\AD-SOYAD.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\AD-SOYAD\AD-SOYAD\bin\Debug\AD-SOYAD.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\AD-SOYAD\AD-SOYAD\bin\Debug\AD-SOYAD.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\AD-SOYAD\AD-SOYAD\obj\Debug\AD-SOYAD.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\AD-SOYAD\AD-SOYAD\obj\Debug\AD-SOYAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\AD-SOYAD\AD-SOYAD\obj\Debug\AD-SOYAD.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\AD-SOYAD\AD-SOYAD\obj\Debug\AD-SOYAD.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\AD-SOYAD\AD-SOYAD\obj\Debug\AD-SOYAD.pdb

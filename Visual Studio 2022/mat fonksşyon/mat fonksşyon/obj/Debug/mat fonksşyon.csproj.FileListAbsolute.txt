@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\mat fonksşyon\mat fonksşyon\bin\Debug\mat fonksşyon.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\mat fonksşyon\mat fonksşyon\bin\Debug\mat fonksşyon.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\mat fonksşyon\mat fonksşyon\bin\Debug\mat fonksşyon.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\mat fonksşyon\mat fonksşyon\obj\Debug\mat fonksşyon.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\mat fonksşyon\mat fonksşyon\obj\Debug\mat fonksşyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\mat fonksşyon\mat fonksşyon\obj\Debug\mat fonksşyon.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\mat fonksşyon\mat fonksşyon\obj\Debug\mat fonksşyon.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\mat fonksşyon\mat fonksşyon\obj\Debug\mat fonksşyon.pdb

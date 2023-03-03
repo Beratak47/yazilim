@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\yıldız şekil\yıldız şekil\bin\Debug\yıldız şekil.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\yıldız şekil\yıldız şekil\bin\Debug\yıldız şekil.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\yıldız şekil\yıldız şekil\bin\Debug\yıldız şekil.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\yıldız şekil\yıldız şekil\obj\Debug\yıldız şekil.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\yıldız şekil\yıldız şekil\obj\Debug\yıldız şekil.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\yıldız şekil\yıldız şekil\obj\Debug\yıldız şekil.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\yıldız şekil\yıldız şekil\obj\Debug\yıldız şekil.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\yıldız şekil\yıldız şekil\obj\Debug\yıldız şekil.pdb

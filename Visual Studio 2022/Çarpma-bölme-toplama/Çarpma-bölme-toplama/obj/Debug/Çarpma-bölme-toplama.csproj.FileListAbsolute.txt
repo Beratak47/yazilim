@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\Çarpma-bölme-toplama\Çarpma-bölme-toplama\bin\Debug\Çarpma-bölme-toplama.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\Çarpma-bölme-toplama\Çarpma-bölme-toplama\bin\Debug\Çarpma-bölme-toplama.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\Çarpma-bölme-toplama\Çarpma-bölme-toplama\bin\Debug\Çarpma-bölme-toplama.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\Çarpma-bölme-toplama\Çarpma-bölme-toplama\obj\Debug\Çarpma-bölme-toplama.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Çarpma-bölme-toplama\Çarpma-bölme-toplama\obj\Debug\Çarpma-bölme-toplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Çarpma-bölme-toplama\Çarpma-bölme-toplama\obj\Debug\Çarpma-bölme-toplama.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Çarpma-bölme-toplama\Çarpma-bölme-toplama\obj\Debug\Çarpma-bölme-toplama.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\Çarpma-bölme-toplama\Çarpma-bölme-toplama\obj\Debug\Çarpma-bölme-toplama.pdb

@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi toplama\çok boyutlu dizi toplama\bin\Debug\çok boyutlu dizi toplama.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi toplama\çok boyutlu dizi toplama\bin\Debug\çok boyutlu dizi toplama.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi toplama\çok boyutlu dizi toplama\bin\Debug\çok boyutlu dizi toplama.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi toplama\çok boyutlu dizi toplama\obj\Debug\çok boyutlu dizi toplama.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi toplama\çok boyutlu dizi toplama\obj\Debug\çok boyutlu dizi toplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi toplama\çok boyutlu dizi toplama\obj\Debug\çok boyutlu dizi toplama.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi toplama\çok boyutlu dizi toplama\obj\Debug\çok boyutlu dizi toplama.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi toplama\çok boyutlu dizi toplama\obj\Debug\çok boyutlu dizi toplama.pdb

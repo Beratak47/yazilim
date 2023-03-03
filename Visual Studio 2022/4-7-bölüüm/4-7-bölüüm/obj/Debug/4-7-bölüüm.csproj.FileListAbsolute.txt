@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\4-7-bölüüm\4-7-bölüüm\obj\Debug\4-7-bölüüm.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\4-7-bölüüm\4-7-bölüüm\obj\Debug\4-7-bölüüm.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\4-7-bölüüm\4-7-bölüüm\obj\Debug\4-7-bölüüm.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\4-7-bölüüm\4-7-bölüüm\bin\Debug\4-7-bölüüm.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\4-7-bölüüm\4-7-bölüüm\bin\Debug\4-7-bölüüm.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\4-7-bölüüm\4-7-bölüüm\bin\Debug\4-7-bölüüm.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\4-7-bölüüm\4-7-bölüüm\obj\Debug\4-7-bölüüm.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\4-7-bölüüm\4-7-bölüüm\obj\Debug\4-7-bölüüm.pdb

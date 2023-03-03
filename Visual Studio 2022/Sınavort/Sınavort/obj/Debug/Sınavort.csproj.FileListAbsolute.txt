@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\Sınavort\Sınavort\bin\Debug\Sınavort.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\Sınavort\Sınavort\bin\Debug\Sınavort.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\Sınavort\Sınavort\bin\Debug\Sınavort.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\Sınavort\Sınavort\obj\Debug\Sınavort.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Sınavort\Sınavort\obj\Debug\Sınavort.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Sınavort\Sınavort\obj\Debug\Sınavort.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Sınavort\Sınavort\obj\Debug\Sınavort.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\Sınavort\Sınavort\obj\Debug\Sınavort.pdb

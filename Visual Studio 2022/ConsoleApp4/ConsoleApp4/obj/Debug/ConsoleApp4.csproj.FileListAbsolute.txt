@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

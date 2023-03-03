@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\kare\kare\bin\Debug\kare.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\kare\kare\bin\Debug\kare.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\kare\kare\bin\Debug\kare.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\kare\kare\obj\Debug\kare.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\kare\kare\obj\Debug\kare.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\kare\kare\obj\Debug\kare.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\kare\kare\obj\Debug\kare.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\kare\kare\obj\Debug\kare.pdb

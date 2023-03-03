@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\sesli harf\sesli harf\bin\Debug\sesli harf.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\sesli harf\sesli harf\bin\Debug\sesli harf.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\sesli harf\sesli harf\bin\Debug\sesli harf.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\sesli harf\sesli harf\obj\Debug\sesli harf.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\sesli harf\sesli harf\obj\Debug\sesli harf.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\sesli harf\sesli harf\obj\Debug\sesli harf.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\sesli harf\sesli harf\obj\Debug\sesli harf.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\sesli harf\sesli harf\obj\Debug\sesli harf.pdb

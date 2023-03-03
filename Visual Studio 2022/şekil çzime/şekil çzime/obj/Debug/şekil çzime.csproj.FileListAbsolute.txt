@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\şekil çzime\şekil çzime\bin\Debug\şekil çzime.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\şekil çzime\şekil çzime\bin\Debug\şekil çzime.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\şekil çzime\şekil çzime\bin\Debug\şekil çzime.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\şekil çzime\şekil çzime\obj\Debug\şekil çzime.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\şekil çzime\şekil çzime\obj\Debug\şekil çzime.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\şekil çzime\şekil çzime\obj\Debug\şekil çzime.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\şekil çzime\şekil çzime\obj\Debug\şekil çzime.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\şekil çzime\şekil çzime\obj\Debug\şekil çzime.pdb

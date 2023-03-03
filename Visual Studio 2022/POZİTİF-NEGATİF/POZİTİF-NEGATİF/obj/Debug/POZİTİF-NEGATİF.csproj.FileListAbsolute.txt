@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\POZİTİF-NEGATİF\POZİTİF-NEGATİF\bin\Debug\POZİTİF-NEGATİF.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\POZİTİF-NEGATİF\POZİTİF-NEGATİF\bin\Debug\POZİTİF-NEGATİF.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\POZİTİF-NEGATİF\POZİTİF-NEGATİF\bin\Debug\POZİTİF-NEGATİF.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\POZİTİF-NEGATİF\POZİTİF-NEGATİF\obj\Debug\POZİTİF-NEGATİF.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\POZİTİF-NEGATİF\POZİTİF-NEGATİF\obj\Debug\POZİTİF-NEGATİF.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\POZİTİF-NEGATİF\POZİTİF-NEGATİF\obj\Debug\POZİTİF-NEGATİF.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\POZİTİF-NEGATİF\POZİTİF-NEGATİF\obj\Debug\POZİTİF-NEGATİF.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\POZİTİF-NEGATİF\POZİTİF-NEGATİF\obj\Debug\POZİTİF-NEGATİF.pdb

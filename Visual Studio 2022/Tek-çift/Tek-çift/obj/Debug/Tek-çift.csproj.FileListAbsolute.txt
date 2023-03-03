@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\Tek-çift\Tek-çift\bin\Debug\Tek-çift.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\Tek-çift\Tek-çift\bin\Debug\Tek-çift.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\Tek-çift\Tek-çift\bin\Debug\Tek-çift.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\Tek-çift\Tek-çift\obj\Debug\Tek-çift.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Tek-çift\Tek-çift\obj\Debug\Tek-çift.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Tek-çift\Tek-çift\obj\Debug\Tek-çift.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Tek-çift\Tek-çift\obj\Debug\Tek-çift.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\Tek-çift\Tek-çift\obj\Debug\Tek-çift.pdb

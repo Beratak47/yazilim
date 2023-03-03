@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\metot\metot\bin\Debug\metot.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\metot\metot\bin\Debug\metot.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\metot\metot\bin\Debug\metot.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\metot\metot\obj\Debug\metot.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\metot\metot\obj\Debug\metot.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\metot\metot\obj\Debug\metot.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\metot\metot\obj\Debug\metot.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\metot\metot\obj\Debug\metot.pdb

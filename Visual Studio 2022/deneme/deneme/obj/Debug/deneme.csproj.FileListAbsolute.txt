@@ -1,0 +1,3 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\deneme\deneme\obj\Debug\deneme.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\deneme\deneme\obj\Debug\deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache

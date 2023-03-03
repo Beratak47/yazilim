@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\sayı-aralığı\sayı-aralığı\obj\Debug\sayı-aralığı.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\sayı-aralığı\sayı-aralığı\obj\Debug\sayı-aralığı.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\sayı-aralığı\sayı-aralığı\obj\Debug\sayı-aralığı.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\sayı-aralığı\sayı-aralığı\bin\Debug\sayı-aralığı.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\sayı-aralığı\sayı-aralığı\bin\Debug\sayı-aralığı.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\sayı-aralığı\sayı-aralığı\bin\Debug\sayı-aralığı.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\sayı-aralığı\sayı-aralığı\obj\Debug\sayı-aralığı.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\sayı-aralığı\sayı-aralığı\obj\Debug\sayı-aralığı.pdb

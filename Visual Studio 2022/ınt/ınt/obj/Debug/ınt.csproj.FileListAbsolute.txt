@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\ınt\ınt\bin\Debug\ınt.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\ınt\ınt\bin\Debug\ınt.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\ınt\ınt\bin\Debug\ınt.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\ınt\ınt\obj\Debug\ınt.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\ınt\ınt\obj\Debug\ınt.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\ınt\ınt\obj\Debug\ınt.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\ınt\ınt\obj\Debug\ınt.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\ınt\ınt\obj\Debug\ınt.pdb

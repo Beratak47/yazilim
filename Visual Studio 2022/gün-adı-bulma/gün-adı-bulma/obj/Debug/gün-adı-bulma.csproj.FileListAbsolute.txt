@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\gün-adı-bulma\gün-adı-bulma\bin\Debug\gün-adı-bulma.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\gün-adı-bulma\gün-adı-bulma\bin\Debug\gün-adı-bulma.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\gün-adı-bulma\gün-adı-bulma\bin\Debug\gün-adı-bulma.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\gün-adı-bulma\gün-adı-bulma\obj\Debug\gün-adı-bulma.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\gün-adı-bulma\gün-adı-bulma\obj\Debug\gün-adı-bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\gün-adı-bulma\gün-adı-bulma\obj\Debug\gün-adı-bulma.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\gün-adı-bulma\gün-adı-bulma\obj\Debug\gün-adı-bulma.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\gün-adı-bulma\gün-adı-bulma\obj\Debug\gün-adı-bulma.pdb

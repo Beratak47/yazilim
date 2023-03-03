@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi\çok boyutlu dizi\bin\Debug\çok boyutlu dizi.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi\çok boyutlu dizi\bin\Debug\çok boyutlu dizi.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi\çok boyutlu dizi\bin\Debug\çok boyutlu dizi.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi\çok boyutlu dizi\obj\Debug\çok boyutlu dizi.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi\çok boyutlu dizi\obj\Debug\çok boyutlu dizi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi\çok boyutlu dizi\obj\Debug\çok boyutlu dizi.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi\çok boyutlu dizi\obj\Debug\çok boyutlu dizi.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\çok boyutlu dizi\çok boyutlu dizi\obj\Debug\çok boyutlu dizi.pdb

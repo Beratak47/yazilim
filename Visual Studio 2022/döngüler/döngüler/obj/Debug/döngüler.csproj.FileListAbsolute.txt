@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\döngüler\döngüler\bin\Debug\döngüler.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\döngüler\döngüler\bin\Debug\döngüler.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\döngüler\döngüler\bin\Debug\döngüler.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\döngüler\döngüler\obj\Debug\döngüler.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\döngüler\döngüler\obj\Debug\döngüler.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\döngüler\döngüler\obj\Debug\döngüler.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\döngüler\döngüler\obj\Debug\döngüler.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\döngüler\döngüler\obj\Debug\döngüler.pdb

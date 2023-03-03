@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\123124\123124\bin\Debug\123124.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\123124\123124\bin\Debug\123124.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\123124\123124\bin\Debug\123124.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\123124\123124\obj\Debug\123124.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\123124\123124\obj\Debug\123124.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\123124\123124\obj\Debug\123124.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\123124\123124\obj\Debug\123124.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\123124\123124\obj\Debug\123124.pdb

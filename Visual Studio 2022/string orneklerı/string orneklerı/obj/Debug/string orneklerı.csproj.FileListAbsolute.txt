@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\string orneklerı\string orneklerı\bin\Debug\string orneklerı.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\string orneklerı\string orneklerı\bin\Debug\string orneklerı.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\string orneklerı\string orneklerı\bin\Debug\string orneklerı.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\string orneklerı\string orneklerı\obj\Debug\string orneklerı.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\string orneklerı\string orneklerı\obj\Debug\string orneklerı.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\string orneklerı\string orneklerı\obj\Debug\string orneklerı.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\string orneklerı\string orneklerı\obj\Debug\string orneklerı.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\string orneklerı\string orneklerı\obj\Debug\string orneklerı.pdb

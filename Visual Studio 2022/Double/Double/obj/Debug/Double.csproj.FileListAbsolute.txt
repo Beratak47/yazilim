@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\Double\Double\obj\Debug\Double.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Double\Double\obj\Debug\Double.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Double\Double\obj\Debug\Double.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\Double\Double\bin\Debug\Double.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\Double\Double\bin\Debug\Double.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\Double\Double\bin\Debug\Double.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\Double\Double\obj\Debug\Double.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\Double\Double\obj\Debug\Double.pdb

@@ -1,0 +1,8 @@
+C:\Users\MSİ\Documents\Visual Studio 2022\dizi-baştan-sona\dizi-baştan-sona\obj\Debug\dizi-baştan-sona.csproj.AssemblyReference.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\dizi-baştan-sona\dizi-baştan-sona\obj\Debug\dizi-baştan-sona.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\dizi-baştan-sona\dizi-baştan-sona\obj\Debug\dizi-baştan-sona.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Documents\Visual Studio 2022\dizi-baştan-sona\dizi-baştan-sona\bin\Debug\dizi-baştan-sona.exe.config
+C:\Users\MSİ\Documents\Visual Studio 2022\dizi-baştan-sona\dizi-baştan-sona\bin\Debug\dizi-baştan-sona.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\dizi-baştan-sona\dizi-baştan-sona\bin\Debug\dizi-baştan-sona.pdb
+C:\Users\MSİ\Documents\Visual Studio 2022\dizi-baştan-sona\dizi-baştan-sona\obj\Debug\dizi-baştan-sona.exe
+C:\Users\MSİ\Documents\Visual Studio 2022\dizi-baştan-sona\dizi-baştan-sona\obj\Debug\dizi-baştan-sona.pdb
